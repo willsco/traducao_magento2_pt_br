@@ -2865,6 +2865,7 @@
 "Thank you for your order from %store_name.","Obrigado pelo seu pedido na loja %store_name."
 "You can check the status of your order by <a href=""%account_url"">logging into your account</a>.","Você pode verificar o status do seu pedido ao <a href=""%account_url""> logar em sua conta</a>."
 "If you have questions about your order, you can email us at <a href=""mailto:%store_email"">%store_email</a>","Se você tem perguntas sobre seu pedido, você pode nos enviar em <a href=""mailto:%store_email""> %store_email</a>"
+"or call us at <a href=""tel:%store_phone"">%store_phone</a>","ou ligue pra gente no número <a href=""tel:%store_phone"">%store_phone</a>"
 "Your Credit Memo #%creditmemo_id for Order #%order_id","A sua Nota de Crédito #%creditmemo_id para o Pedido #%order_id"
 "Billing Info","Informações de cobrança"
 "Update to your %store_name credit memo","Atualização para sua nota de crédito de %store_name"
@@ -15439,4 +15440,4 @@ Limite de uso imposto apenas para clientes com sessão iniciada.                
 "Social Contract","Contrato Social"
 "Shipping Info","Dados de Envio"
 "About Us","Sobre Nós"
-"Hours of Operation","Horário de Funcionamento"
+"Hours of Operation:<br /><span class=""no-link"">%store_hours</span>.","Horário de Funcionamento:<br /><span class=""no-link"">%store_hours</span>."
