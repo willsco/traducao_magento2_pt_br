@@ -15441,3 +15441,4 @@ Limite de uso imposto apenas para clientes com sessão iniciada.                
 "Shipping Info","Dados de Envio"
 "About Us","Sobre Nós"
 "Hours of Operation:<br /><span class=""no-link"">%store_hours</span>.","Horário de Funcionamento:<br /><span class=""no-link"">%store_hours</span>."
+"Our hours are <span class=""no-link"">%store_hours</span>.","Nosso horário de atendimento: <span class=""no-link"">%store_hours</span>."
