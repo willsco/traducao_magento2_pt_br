@@ -15443,5 +15443,6 @@ Limite de uso imposto apenas para clientes com sessão iniciada.                
 "Hours of Operation:<br /><span class=""no-link"">%store_hours</span>.","Horário de Funcionamento:<br /><span class=""no-link"">%store_hours</span>."
 "Our hours are <span class=""no-link"">%store_hours</span>.","Nosso horário de atendimento: <span class=""no-link"">%store_hours</span>."
 "Login as Customer not enabled","Logar como Cliente não foi ativado"
-"The user has not enabled the ""Allow remote shopping assistance"" functionality. ","O usuário não ativou a opção ""Permitir assistência de compra remota"""
+"The user has not enabled the ""Allow remote shopping assistance"" functionality. ","O usuário não ativou a opção ""Permitir assistência de compra remota""."
 "Contact the customer to discuss this user configuration.","Entre em contato com o Cliente para conversar sobre esta configuração."
+"The user has not enabled the ""Allow remote shopping assistance"" functionality. Contact the customer to discuss this user configuration.","O usuário não ativou a opção ""Permitir assistência de compra remota"". Entre em contato com o Cliente para conversar sobre esta configuração."
